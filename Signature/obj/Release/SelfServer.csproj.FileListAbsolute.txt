@@ -1,0 +1,12 @@
+D:\LXD\自动警告\Signature\bin\Release\Config\Config.xml
+D:\LXD\自动警告\Signature\bin\Release\SelfServer.exe
+D:\LXD\自动警告\Signature\bin\Release\Newtonsoft.Json.dll
+D:\LXD\自动警告\Signature\obj\Release\SelfServer.csproj.AssemblyReference.cache
+D:\LXD\自动警告\Signature\obj\Release\Signature.MessagForm.resources
+D:\LXD\自动警告\Signature\obj\Release\Signature.Main.resources
+D:\LXD\自动警告\Signature\obj\Release\eCTDViewer4.DBControls.MyButton.resources
+D:\LXD\自动警告\Signature\obj\Release\SelfServer.Properties.Resources.resources
+D:\LXD\自动警告\Signature\obj\Release\SelfServer.csproj.GenerateResource.cache
+D:\LXD\自动警告\Signature\obj\Release\SelfServer.csproj.CoreCompileInputs.cache
+D:\LXD\自动警告\Signature\obj\Release\SelfServer.csproj.CopyComplete
+D:\LXD\自动警告\Signature\obj\Release\SelfServer.exe

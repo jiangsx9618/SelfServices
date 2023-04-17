@@ -1,0 +1,276 @@
+2023-04-11 14:57:54===接收到信息[sendMsg]
+2023-04-11 15:13:26===接收到信息[sendMsg]
+2023-04-11 15:14:04===接收到信息[sendMsg]
+2023-04-11 15:14:27===接收到信息[sendMsg]
+2023-04-11 15:22:44===接收到信息[sendMsg]
+2023-04-11 15:23:37===接收到信息[sendMsg]
+2023-04-11 15:24:20===接收到信息[sendMsg]
+2023-04-11 15:26:48===接收到信息[sendMsg]
+2023-04-11 15:28:23===接收到信息[sendMsg]
+2023-04-11 15:29:34===接收到信息[sendMsg]
+2023-04-11 15:30:15===接收到信息[sendMsg]
+2023-04-11 15:31:27===接收到信息[sendMsg]
+2023-04-11 15:37:07===接收到信息[sendMsg]
+2023-04-11 15:37:33===接收到信息[sendMsg]
+2023-04-11 15:38:23===接收到信息[sendMsg]
+2023-04-11 15:39:02===接收到信息[sendMsg]
+2023-04-11 15:40:30===接收到信息[sendMsg]
+2023-04-11 15:40:47===接收到信息[sendMsg]
+2023-04-11 15:42:45===接收到信息[sendMsg]
+2023-04-11 15:44:16===接收到信息[sendMsg]
+2023-04-11 15:44:20===接收到信息[sendMsg]
+2023-04-11 15:46:33===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "red"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 15:47:03===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "red"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 15:47:05===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "red"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 15:47:07===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "red"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 15:47:08===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "red"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 15:47:11===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "red"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 15:47:13===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "red"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 15:52:42===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "red"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 15:53:05===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "red"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 15:53:34===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "red"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 15:55:49===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "red"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 15:56:20===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "balck"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 15:56:34===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "balck"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 15:56:43===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "balck"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]
+2023-04-11 16:00:30===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "balck"
+    },
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容",
+        "title": "弹窗标题",
+        "type": 1,
+        "titleColor": "red"
+    }
+]
+]

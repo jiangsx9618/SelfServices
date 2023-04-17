@@ -1,0 +1,360 @@
+2023-04-12 14:31:30===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容1",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "balck"
+    },
+    {
+        "id": 2,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题2",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 3,
+        "msgContent": "弹窗提示内容3",
+        "title": "弹窗标题3",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 4,
+        "msgContent": "弹窗提示内容4",
+        "title": "弹窗标题4",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 5,
+        "msgContent": "弹窗提示内容5",
+        "title": "弹窗标题5",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 6,
+        "msgContent": "弹窗提示内容6",
+        "title": "弹窗标题6",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 7,
+        "msgContent": "弹窗提示内容7",
+        "title": "弹窗标题7",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 8,
+        "msgContent": "弹窗提示内容8",
+        "title": "弹窗标题8",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 9,
+        "msgContent": "弹窗提示内容9",
+        "title": "弹窗标题9",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 10,
+        "msgContent": "弹窗提示内容10",
+        "title": "弹窗标题10",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 11,
+        "msgContent": "弹窗提示内容11",
+        "title": "弹窗标题11",
+        "type": 1,
+        "titleColor": "red"
+    }
+
+]
+]
+2023-04-12 14:33:37===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容1",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "balck"
+    },
+    {
+        "id": 2,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题2",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 3,
+        "msgContent": "弹窗提示内容3",
+        "title": "弹窗标题3",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 4,
+        "msgContent": "弹窗提示内容4",
+        "title": "弹窗标题4",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 5,
+        "msgContent": "弹窗提示内容5",
+        "title": "弹窗标题5",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 6,
+        "msgContent": "弹窗提示内容6",
+        "title": "弹窗标题6",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 7,
+        "msgContent": "弹窗提示内容7",
+        "title": "弹窗标题7",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 8,
+        "msgContent": "弹窗提示内容8",
+        "title": "弹窗标题8",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 9,
+        "msgContent": "弹窗提示内容9",
+        "title": "弹窗标题9",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 10,
+        "msgContent": "弹窗提示内容10",
+        "title": "弹窗标题10",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 11,
+        "msgContent": "弹窗提示内容11",
+        "title": "弹窗标题11",
+        "type": 1,
+        "titleColor": "w"
+    }
+
+]
+]
+2023-04-12 14:34:43===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容1",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "balck"
+    },
+    {
+        "id": 2,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题2",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 3,
+        "msgContent": "弹窗提示内容3",
+        "title": "弹窗标题3",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 4,
+        "msgContent": "弹窗提示内容4",
+        "title": "弹窗标题4",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 5,
+        "msgContent": "弹窗提示内容5",
+        "title": "弹窗标题5",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 6,
+        "msgContent": "弹窗提示内容6",
+        "title": "弹窗标题6",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 7,
+        "msgContent": "弹窗提示内容7",
+        "title": "弹窗标题7",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 8,
+        "msgContent": "弹窗提示内容8",
+        "title": "弹窗标题8",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 9,
+        "msgContent": "弹窗提示内容9",
+        "title": "弹窗标题9",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 10,
+        "msgContent": "弹窗提示内容10",
+        "title": "弹窗标题10",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 11,
+        "msgContent": "弹窗提示内容11",
+        "title": "弹窗标题11",
+        "type": 1,
+        "titleColor": "w"
+    }
+
+]
+]
+2023-04-12 14:35:13===接收到信息[[
+    {
+        "id": 1,
+        "msgContent": "弹窗提示内容1",
+        "title": "弹窗标题1",
+        "type": 1,
+        "titleColor": "balck"
+    },
+    {
+        "id": 2,
+        "msgContent": "弹窗提示内容2",
+        "title": "弹窗标题2",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 3,
+        "msgContent": "弹窗提示内容3",
+        "title": "弹窗标题3",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 4,
+        "msgContent": "弹窗提示内容4",
+        "title": "弹窗标题4",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 5,
+        "msgContent": "弹窗提示内容5",
+        "title": "弹窗标题5",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 6,
+        "msgContent": "弹窗提示内容6",
+        "title": "弹窗标题6",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 7,
+        "msgContent": "弹窗提示内容7",
+        "title": "弹窗标题7",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 8,
+        "msgContent": "弹窗提示内容8",
+        "title": "弹窗标题8",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 9,
+        "msgContent": "弹窗提示内容9",
+        "title": "弹窗标题9",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 10,
+        "msgContent": "弹窗提示内容10",
+        "title": "弹窗标题10",
+        "type": 1,
+        "titleColor": "red"
+    }
+    ,
+    {
+        "id": 11,
+        "msgContent": "弹窗提示内容11",
+        "title": "弹窗标题11",
+        "type": 1,
+        "titleColor": "w"
+    }
+
+]
+]

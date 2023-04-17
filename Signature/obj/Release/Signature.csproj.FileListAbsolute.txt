@@ -1,0 +1,8 @@
+D:\LXD\Signature\Signature\bin\Release\Config\Config.ini
+D:\LXD\Signature\Signature\bin\Release\Signature.exe
+D:\LXD\Signature\Signature\bin\Release\Newtonsoft.Json.dll
+D:\LXD\Signature\Signature\obj\Release\Signature.Signature.resources
+D:\LXD\Signature\Signature\obj\Release\Signature.Properties.Resources.resources
+D:\LXD\Signature\Signature\obj\Release\Signature.csproj.GenerateResource.Cache
+D:\LXD\Signature\Signature\obj\Release\Signature.exe
+D:\LXD\Signature\Signature\obj\Release\Signature.csprojResolveAssemblyReference.cache
